@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**DaryaSinitsyna/DaryaSinitsyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
 
-Here are some ideas to get you started:
+  <a href="https://www.linkedin.com/in/darya-sinitsyna-9799b1267">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:sinitsynadarya@mail.ru">
+    <img src="https://img.shields.io/badge/mail-1877F2?style=for-the-badge&logo=Mail.Ru&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/darya-sinitsyna-9799b1267">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</p>
+
+<h2 align="center">Hi there, I'm <a href="https://t.me/sinitsyna_darya" target="_blank">Sinitsyna Darya</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+<h3 align="center"> Python Backend Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="32"/></h3>
+
+###
+<p align='center'>
+    <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Aiogram-2CA5E0" />
+    <img src="https://img.shields.io/badge/SQL-003B57" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white" />
+</p>
+
+
