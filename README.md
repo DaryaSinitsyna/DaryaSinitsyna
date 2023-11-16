@@ -1,7 +1,7 @@
 
 <p align='center'>
 
-  <a href="https://www.linkedin.com/in/darya-sinitsyna-9799b1267">
+  <a href="https://t.me/sinitsyna_darya">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:sinitsynadarya@mail.ru">
