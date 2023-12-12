@@ -11,6 +11,11 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
+  <a href="https://cloud.mail.ru/public/XJ5Q/bt2noDd3s">
+    <img src="https://img.shields.io/badge/Resume-FF0000.svg?&style=for-the-badge&logo=&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+
 
 
 </p>
