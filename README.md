@@ -27,11 +27,17 @@
 ###
 <p align='center'>
     <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Aiogram-2CA5E0" />
+    <img src="https://img.shields.io/badge/Aiogram-2B6EB6?logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-003B57" />
     <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLAlchemy-3776AB?logo=SQLAlchemy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white" />
 </p>
